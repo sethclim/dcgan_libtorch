@@ -1,0 +1,5 @@
+build/
+dcgan
+.vscode/
+mnist/
+*.out

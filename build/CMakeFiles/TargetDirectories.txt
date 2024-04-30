@@ -1,3 +1,0 @@
-/home/sethclim/coding/c++/ai/projects/dcgan/build/CMakeFiles/dcgan.dir
-/home/sethclim/coding/c++/ai/projects/dcgan/build/CMakeFiles/edit_cache.dir
-/home/sethclim/coding/c++/ai/projects/dcgan/build/CMakeFiles/rebuild_cache.dir

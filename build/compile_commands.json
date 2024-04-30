@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/sethclim/coding/c++/ai/projects/dcgan/build",
-  "command": "/usr/bin/g++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/sethclim/coding/c++/ai/dependencies/libtorch-cxx11-abi-shared-with-deps-2.2.1+cpu/libtorch/include -isystem /home/sethclim/coding/c++/ai/dependencies/libtorch-cxx11-abi-shared-with-deps-2.2.1+cpu/libtorch/include/torch/csrc/api/include  -pthread -g -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/dcgan.dir/dcgan.cpp.o -c /home/sethclim/coding/c++/ai/projects/dcgan/dcgan.cpp",
-  "file": "/home/sethclim/coding/c++/ai/projects/dcgan/dcgan.cpp",
-  "output": "CMakeFiles/dcgan.dir/dcgan.cpp.o"
-}
-]
